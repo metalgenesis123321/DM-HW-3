@@ -1,0 +1,4 @@
+method,iterations,stopped,accuracy,history_len
+euclidean,78,tol,0.5933,78
+cosine(reduced),53,tol,0.5471,53
+jaccard(reduced),200,max,0.2488,200
